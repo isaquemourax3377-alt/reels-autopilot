@@ -1,0 +1,63 @@
+name: Postar video automatico
+
+on:
+  # O "schedule" nativo do GitHub tem um bug conhecido em repositorios privados novos
+  # (nunca dispara). O agendamento real agora vem de um cron externo (cron-job.org)
+  # chamando a API de workflow_dispatch nos horarios certos, uma vez por conta.
+  workflow_dispatch:
+    inputs:
+      conta:
+        description: 'Conta a postar (pasta em contas/, ex: conta1, conta2)'
+        required: false
+        default: 'conta1'
+      quantidade:
+        description: 'Quantos videos postar agora (vazio = o que estiver no config.json da conta)'
+        required: false
+        default: ''
+
+concurrency:
+  group: postar-instagram-${{ github.event.inputs.conta || 'conta1' }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  postar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Rodar postagem
+        env:
+          PAGE_TOKEN: ${{ secrets[format('PAGE_TOKEN_{0}', github.event.inputs.conta || 'conta1')] }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONTA: ${{ github.event.inputs.conta || 'conta1' }}
+          QUANTIDADE: ${{ github.event.inputs.quantidade }}
+        run: node postar.js "$CONTA"
+
+      - name: Salvar estado atualizado
+        env:
+          CONTA: ${{ github.event.inputs.conta || 'conta1' }}
+        run: |
+          git config user.name "automacao-instagram"
+          git config user.email "automacao@users.noreply.github.com"
+          # Duas contas no mesmo minuto acrescentam linhas no postar.log: junta as duas em vez de dar conflito
+          # (sem isso o estado de uma delas não salvava e ela repostava o mesmo vídeo).
+          echo "postar.log merge=union" >> .git/info/attributes
+          git add -f "contas/$CONTA" postar.log
+          git diff --cached --quiet || git commit -m "Atualiza estado da automacao ($CONTA)"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejeitado, tentando de novo (tentativa $i)..."
+            git pull --rebase origin main || git rebase --abort
+            sleep 3
+          done
+          # Sem salvar o estado o proximo horario repete o video: melhor o run ficar vermelho.
+          echo "::error::Nao consegui salvar o estado.json; o proximo horario pode repetir o video."
+          exit 1
