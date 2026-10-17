@@ -5,5 +5,10 @@
   "app_id": "1657098586036975",
   "cloudinary_cloud_name": "rmwg8wyz",
   "idioma": "pt",
-  "posts_por_vez": 10
+  "posts_por_vez": 10,
+  "resposta_auto": {
+    "texto": "🔥🔥",
+    "antigos": true,
+    "desde": "2026-10-17T19:54:27.642Z"
+  }
 }
