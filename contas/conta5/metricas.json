@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-18T08:46:02.176Z",
+  "atualizado": "2026-10-18T09:16:04.050Z",
   "seguidores": 1,
-  "total_posts": 9,
+  "total_posts": 10,
   "erro": null,
   "midias": [
+    {
+      "id": "18007963521004336",
+      "data": "2026-10-18T09:15:57+0000",
+      "link": "https://www.instagram.com/reel/DeoVqsaisvI/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "17866128378678212",
       "data": "2026-10-18T08:45:55+0000",
       "link": "https://www.instagram.com/reel/DeoSOoKDy3r/",
-      "views": 0,
+      "views": 72,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +24,7 @@
       "id": "18139454536529586",
       "data": "2026-10-18T08:15:55+0000",
       "link": "https://www.instagram.com/reel/DeoOzKZigZa/",
-      "views": 31,
+      "views": 147,
       "likes": 0,
       "comentarios": 0
     },
@@ -24,15 +32,15 @@
       "id": "18132588292783406",
       "data": "2026-10-18T07:45:56+0000",
       "link": "https://www.instagram.com/reel/DeoLXLtge3X/",
-      "views": 126,
-      "likes": 3,
+      "views": 226,
+      "likes": 6,
       "comentarios": 0
     },
     {
       "id": "18132082531765947",
       "data": "2026-10-18T07:15:52+0000",
       "link": "https://www.instagram.com/reel/DeoH8jdAmAK/",
-      "views": 126,
+      "views": 127,
       "likes": 2,
       "comentarios": 0
     },
@@ -40,7 +48,7 @@
       "id": "18063297335547257",
       "data": "2026-10-18T06:46:08+0000",
       "link": "https://www.instagram.com/reel/DeoEgZGgmlp/",
-      "views": 144,
+      "views": 152,
       "likes": 1,
       "comentarios": 0
     },
@@ -48,7 +56,7 @@
       "id": "17939515536380274",
       "data": "2026-10-18T06:16:19+0000",
       "link": "https://www.instagram.com/reel/DeoBHiHGK_d/",
-      "views": 21,
+      "views": 28,
       "likes": 0,
       "comentarios": 0
     },
@@ -64,7 +72,7 @@
       "id": "17945680068088370",
       "data": "2026-10-18T05:15:54+0000",
       "link": "https://www.instagram.com/reel/Den6MZmkQaw/",
-      "views": 102,
+      "views": 111,
       "likes": 0,
       "comentarios": 0
     },
