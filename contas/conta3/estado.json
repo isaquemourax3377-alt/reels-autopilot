@@ -1,7 +1,7 @@
 {
-  "proximo_video": 30,
+  "proximo_video": 31,
   "video_maximo": 110,
-  "posts_no_lote_atual": 5,
+  "posts_no_lote_atual": 6,
   "lote_atual": 3,
   "tamanho_lote": 12
 }
