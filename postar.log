@@ -348,3 +348,6 @@
 [2026-10-18T19:21:32.344Z] [conta3] OK - video_33 publicado. media_id=18099784829648032
 [2026-10-18T19:24:37.031Z] [conta1] Postando video_51 (lote 6, post 1/10)
 [2026-10-18T19:26:01.381Z] [conta1] FALHOU video_51: Processamento falhou no lado da Meta
+[2026-10-18T19:26:17.806Z] [conta5] Postando video_31 (lote 3, post 7/12)
+[2026-10-18T19:27:31.828Z] [conta5] FALHOU video_31: Processamento falhou no lado da Meta
+[2026-10-18T19:28:14.901Z] [conta5] Respondi 1 comentário(s).
