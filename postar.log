@@ -340,3 +340,5 @@
 [2026-10-18T19:10:16.997Z] [conta1] Postando video_50 (lote 5, post 10/10)
 [2026-10-18T19:11:19.912Z] [conta1] OK - video_50 publicado. media_id=18095088455145806
 [2026-10-18T19:11:19.912Z] [conta1] Legenda trocou para o lote 6. Atualize a bio.
+[2026-10-18T19:10:22.636Z] [conta2] Postando video_41 (lote 4, post 5/12)
+[2026-10-18T19:11:56.939Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
