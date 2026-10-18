@@ -344,3 +344,5 @@
 [2026-10-18T19:11:56.939Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
 [2026-10-18T19:15:21.421Z] [conta5] Postando video_30 (lote 3, post 6/12)
 [2026-10-18T19:16:35.407Z] [conta5] OK - video_30 publicado. media_id=17911205883508304
+[2026-10-18T19:20:21.580Z] [conta3] Postando video_33 (lote 3, post 9/12)
+[2026-10-18T19:21:32.344Z] [conta3] OK - video_33 publicado. media_id=18099784829648032
