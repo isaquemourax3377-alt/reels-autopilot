@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-19T04:21:36.942Z",
+  "atualizado": "2026-10-19T04:51:55.561Z",
   "seguidores": 26,
-  "total_posts": 102,
+  "total_posts": 103,
   "erro": null,
   "midias": [
+    {
+      "id": "18035832047893862",
+      "data": "2026-10-19T04:45:52+0000",
+      "link": "https://www.instagram.com/reel/DeqbjDOCZMB/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18465859876143022",
       "data": "2026-10-19T04:15:54+0000",
       "link": "https://www.instagram.com/reel/DeqYHu6AeaN/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -88,7 +96,7 @@
       "id": "18099784829648032",
       "data": "2026-10-18T19:21:26+0000",
       "link": "https://www.instagram.com/reel/Depa98mClF0/",
-      "views": 2444,
+      "views": 2446,
       "likes": 60,
       "comentarios": 0
     },
@@ -96,23 +104,23 @@
       "id": "17960133330239219",
       "data": "2026-10-18T18:51:58+0000",
       "link": "https://www.instagram.com/reel/DepXk8BjBvU/",
-      "views": 1690,
-      "likes": 49,
+      "views": 1693,
+      "likes": 50,
       "comentarios": 0
     },
     {
       "id": "18091094201217800",
       "data": "2026-10-18T18:21:32+0000",
       "link": "https://www.instagram.com/reel/DepUF70AMka/",
-      "views": 7933,
-      "likes": 326,
+      "views": 8316,
+      "likes": 358,
       "comentarios": 2
     },
     {
       "id": "18025321052874840",
       "data": "2026-10-18T17:51:39+0000",
       "link": "https://www.instagram.com/reel/DepQrZ-Ap-5/",
-      "views": 4140,
+      "views": 4171,
       "likes": 112,
       "comentarios": 0
     },
@@ -120,7 +128,7 @@
       "id": "18129663037877255",
       "data": "2026-10-18T17:20:57+0000",
       "link": "https://www.instagram.com/reel/DepNKu8kdJv/",
-      "views": 1950,
+      "views": 1955,
       "likes": 31,
       "comentarios": 0
     },
@@ -128,7 +136,7 @@
       "id": "18201087592377414",
       "data": "2026-10-18T16:50:50+0000",
       "link": "https://www.instagram.com/reel/DepJvQhj126/",
-      "views": 1676,
+      "views": 1678,
       "likes": 88,
       "comentarios": 0
     },
@@ -136,7 +144,7 @@
       "id": "18160793998498596",
       "data": "2026-10-18T16:21:50+0000",
       "link": "https://www.instagram.com/reel/DepGZu4AU0B/",
-      "views": 1889,
+      "views": 1890,
       "likes": 41,
       "comentarios": 0
     },
@@ -144,7 +152,7 @@
       "id": "18115583360025476",
       "data": "2026-10-18T15:51:17+0000",
       "link": "https://www.instagram.com/reel/DepC3VUDed2/",
-      "views": 1778,
+      "views": 1782,
       "likes": 65,
       "comentarios": 0
     },
@@ -168,7 +176,7 @@
       "id": "18032115701854670",
       "data": "2026-10-18T14:21:58+0000",
       "link": "https://www.instagram.com/reel/Deo4rjQCmdz/",
-      "views": 1993,
+      "views": 1994,
       "likes": 41,
       "comentarios": 0
     },
@@ -176,7 +184,7 @@
       "id": "18090557438287006",
       "data": "2026-10-18T13:50:56+0000",
       "link": "https://www.instagram.com/reel/Deo1Ia8gJn6/",
-      "views": 1933,
+      "views": 1934,
       "likes": 80,
       "comentarios": 0
     },
@@ -200,8 +208,8 @@
       "id": "18091514642227481",
       "data": "2026-10-18T12:20:55+0000",
       "link": "https://www.instagram.com/reel/Deoq1NFlZL2/",
-      "views": 5695,
-      "likes": 251,
+      "views": 5847,
+      "likes": 263,
       "comentarios": 2
     },
     {
@@ -216,7 +224,7 @@
       "id": "18375780346208694",
       "data": "2026-10-18T11:21:09+0000",
       "link": "https://www.instagram.com/reel/Deoj-ucgsrn/",
-      "views": 1709,
+      "views": 1712,
       "likes": 27,
       "comentarios": 0
     },
@@ -235,14 +243,6 @@
       "views": 1985,
       "likes": 37,
       "comentarios": 0
-    },
-    {
-      "id": "18074209214729248",
-      "data": "2026-10-18T09:51:30+0000",
-      "link": "https://www.instagram.com/reel/DeoZvjlDeZ7/",
-      "views": 4303,
-      "likes": 245,
-      "comentarios": 2
     }
   ],
   "historico": {
