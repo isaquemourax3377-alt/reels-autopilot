@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-20T07:51:36.788Z",
+  "atualizado": "2026-10-20T08:21:36.857Z",
   "seguidores": 64,
-  "total_posts": 152,
+  "total_posts": 153,
   "erro": null,
   "midias": [
+    {
+      "id": "18081321965373942",
+      "data": "2026-10-20T08:15:44+0000",
+      "link": "https://www.instagram.com/reel/DetYYV2jqqM/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "17989072683115778",
       "data": "2026-10-20T07:46:41+0000",
       "link": "https://www.instagram.com/reel/DetVDB8j0C6/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -152,15 +160,15 @@
       "id": "18339419977278090",
       "data": "2026-10-19T20:15:50+0000",
       "link": "https://www.instagram.com/reel/DesF_HolIoT/",
-      "views": 18396,
-      "likes": 1410,
-      "comentarios": 17
+      "views": 18694,
+      "likes": 1442,
+      "comentarios": 18
     },
     {
       "id": "18601897906067740",
       "data": "2026-10-19T19:45:54+0000",
       "link": "https://www.instagram.com/reel/DesCjKlE1in/",
-      "views": 2038,
+      "views": 2042,
       "likes": 60,
       "comentarios": 2
     },
@@ -168,15 +176,15 @@
       "id": "18210549142368105",
       "data": "2026-10-19T19:15:43+0000",
       "link": "https://www.instagram.com/reel/Der_HX9DItE/",
-      "views": 11340,
-      "likes": 403,
+      "views": 11489,
+      "likes": 408,
       "comentarios": 5
     },
     {
       "id": "17951555889318019",
       "data": "2026-10-19T18:46:10+0000",
       "link": "https://www.instagram.com/reel/Der7tTXI2Zw/",
-      "views": 2495,
+      "views": 2504,
       "likes": 54,
       "comentarios": 0
     },
@@ -233,14 +241,6 @@
       "data": "2026-10-19T15:16:42+0000",
       "link": "https://www.instagram.com/reel/DerjtmvFjDy/",
       "views": 72,
-      "likes": 1,
-      "comentarios": 0
-    },
-    {
-      "id": "18107120420365755",
-      "data": "2026-10-19T14:46:03+0000",
-      "link": "https://www.instagram.com/reel/DergOMZjiyz/",
-      "views": 60,
       "likes": 1,
       "comentarios": 0
     }
