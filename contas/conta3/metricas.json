@@ -1,9 +1,17 @@
 {
-  "atualizado": "2026-10-20T07:21:37.581Z",
+  "atualizado": "2026-10-20T07:51:36.788Z",
   "seguidores": 64,
-  "total_posts": 151,
+  "total_posts": 152,
   "erro": null,
   "midias": [
+    {
+      "id": "17989072683115778",
+      "data": "2026-10-20T07:46:41+0000",
+      "link": "https://www.instagram.com/reel/DetVDB8j0C6/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18138778405644996",
       "data": "2026-10-20T07:15:51+0000",
@@ -104,7 +112,7 @@
       "id": "18114926192143203",
       "data": "2026-10-19T22:46:00+0000",
       "link": "https://www.instagram.com/reel/DesXKFzj9Pw/",
-      "views": 1418,
+      "views": 1419,
       "likes": 31,
       "comentarios": 0
     },
@@ -128,7 +136,7 @@
       "id": "18104630480368587",
       "data": "2026-10-19T21:15:41+0000",
       "link": "https://www.instagram.com/reel/DesM19rDN32/",
-      "views": 1614,
+      "views": 1615,
       "likes": 52,
       "comentarios": 0
     },
@@ -144,8 +152,8 @@
       "id": "18339419977278090",
       "data": "2026-10-19T20:15:50+0000",
       "link": "https://www.instagram.com/reel/DesF_HolIoT/",
-      "views": 18145,
-      "likes": 1387,
+      "views": 18396,
+      "likes": 1410,
       "comentarios": 17
     },
     {
@@ -160,15 +168,15 @@
       "id": "18210549142368105",
       "data": "2026-10-19T19:15:43+0000",
       "link": "https://www.instagram.com/reel/Der_HX9DItE/",
-      "views": 11197,
-      "likes": 397,
+      "views": 11340,
+      "likes": 403,
       "comentarios": 5
     },
     {
       "id": "17951555889318019",
       "data": "2026-10-19T18:46:10+0000",
       "link": "https://www.instagram.com/reel/Der7tTXI2Zw/",
-      "views": 2492,
+      "views": 2495,
       "likes": 54,
       "comentarios": 0
     },
@@ -234,14 +242,6 @@
       "link": "https://www.instagram.com/reel/DergOMZjiyz/",
       "views": 60,
       "likes": 1,
-      "comentarios": 0
-    },
-    {
-      "id": "18112553209876189",
-      "data": "2026-10-19T14:15:53+0000",
-      "link": "https://www.instagram.com/reel/Dercx1JlJgo/",
-      "views": 65,
-      "likes": 2,
       "comentarios": 0
     }
   ],
