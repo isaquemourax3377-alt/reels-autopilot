@@ -1,11 +1,11 @@
 {
   "dia": "2026-10-20",
-  "hoje": 0,
+  "hoje": 2,
   "varredura": {
     "posts_varridos": 60,
     "fim": "2026-10-18T04:21:07.849Z"
   },
-  "erro": "sem_permissao",
-  "total": 69,
-  "atualizado": "2026-10-20T01:50:23.876Z"
+  "erro": null,
+  "total": 71,
+  "atualizado": "2026-10-20T02:22:54.217Z"
 }
