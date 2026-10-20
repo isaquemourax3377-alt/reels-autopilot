@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-20T06:21:35.507Z",
+  "atualizado": "2026-10-20T06:51:36.646Z",
   "seguidores": 64,
-  "total_posts": 149,
+  "total_posts": 150,
   "erro": null,
   "midias": [
+    {
+      "id": "18144293653512012",
+      "data": "2026-10-20T06:46:31+0000",
+      "link": "https://www.instagram.com/reel/DetOJl4ktYl/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18283018714290094",
       "data": "2026-10-20T06:15:53+0000",
       "link": "https://www.instagram.com/reel/DetKpe6Csdz/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +24,7 @@
       "id": "17989819341078549",
       "data": "2026-10-20T05:45:53+0000",
       "link": "https://www.instagram.com/reel/DetHNpWgq8q/",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comentarios": 0
     },
@@ -24,7 +32,7 @@
       "id": "18108240116627448",
       "data": "2026-10-20T05:15:49+0000",
       "link": "https://www.instagram.com/reel/DetDyhMjU_l/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -32,7 +40,7 @@
       "id": "18115868507028480",
       "data": "2026-10-20T04:46:13+0000",
       "link": "https://www.instagram.com/reel/DetAY5fAREG/",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comentarios": 0
     },
@@ -48,7 +56,7 @@
       "id": "17948825358318191",
       "data": "2026-10-20T03:45:45+0000",
       "link": "https://www.instagram.com/reel/Des5erlEcC2/",
-      "views": 21,
+      "views": 22,
       "likes": 1,
       "comentarios": 0
     },
@@ -88,7 +96,7 @@
       "id": "18114926192143203",
       "data": "2026-10-19T22:46:00+0000",
       "link": "https://www.instagram.com/reel/DesXKFzj9Pw/",
-      "views": 1413,
+      "views": 1416,
       "likes": 31,
       "comentarios": 0
     },
@@ -128,9 +136,9 @@
       "id": "18339419977278090",
       "data": "2026-10-19T20:15:50+0000",
       "link": "https://www.instagram.com/reel/DesF_HolIoT/",
-      "views": 17615,
-      "likes": 1336,
-      "comentarios": 15
+      "views": 17925,
+      "likes": 1366,
+      "comentarios": 16
     },
     {
       "id": "18601897906067740",
@@ -144,15 +152,15 @@
       "id": "18210549142368105",
       "data": "2026-10-19T19:15:43+0000",
       "link": "https://www.instagram.com/reel/Der_HX9DItE/",
-      "views": 10956,
-      "likes": 387,
+      "views": 11080,
+      "likes": 392,
       "comentarios": 5
     },
     {
       "id": "17951555889318019",
       "data": "2026-10-19T18:46:10+0000",
       "link": "https://www.instagram.com/reel/Der7tTXI2Zw/",
-      "views": 2483,
+      "views": 2484,
       "likes": 54,
       "comentarios": 0
     },
@@ -234,14 +242,6 @@
       "link": "https://www.instagram.com/reel/DerZWH0D1Pw/",
       "views": 50,
       "likes": 1,
-      "comentarios": 0
-    },
-    {
-      "id": "18136232671636984",
-      "data": "2026-10-19T13:15:43+0000",
-      "link": "https://www.instagram.com/reel/DerV6sBjR47/",
-      "views": 52,
-      "likes": 0,
       "comentarios": 0
     }
   ],
