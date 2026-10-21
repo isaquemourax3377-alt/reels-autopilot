@@ -1480,3 +1480,7 @@
 [2026-10-21T01:16:43.776Z] [conta5] FALHOU video_31: Processamento falhou no lado da Meta
 [2026-10-21T01:16:44.046Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
 [2026-10-21T01:22:02.775Z] [conta5] Respondi 9 comentário(s).
+[2026-10-21T01:20:21.142Z] [conta3] Postando video_34 (lote 3, post 10/12)
+[2026-10-21T01:21:33.937Z] [conta3] FALHOU video_34: Processamento falhou no lado da Meta
+[2026-10-21T01:21:34.347Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-10-21T01:27:31.391Z] [conta3] Respondi 10 comentário(s).
