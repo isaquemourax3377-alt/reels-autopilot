@@ -2021,3 +2021,17 @@
 [2026-10-22T03:50:21.178Z] [conta3] Postando video_35 (lote 3, post 11/12)
 [2026-10-22T03:51:02.251Z] [conta3] OK - video_35 publicado. media_id=18122972540314909
 [2026-10-22T03:59:20.984Z] [conta3] Respondi 15 comentário(s).
+[2026-10-22T04:00:30.229Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-22T04:00:30.231Z] [conta1] Postando video_51 (lote 6, post 1/10)
+[2026-10-22T04:01:14.490Z] [conta1] OK - video_51 publicado. media_id=18147853690492848
+[2026-10-22T04:01:34.507Z] [conta1] Postando video_52 (lote 6, post 2/10)
+[2026-10-22T04:02:05.411Z] [conta1] OK - video_52 publicado. media_id=17965360041205652
+[2026-10-22T04:02:25.427Z] [conta1] Postando video_53 (lote 6, post 3/10)
+[2026-10-22T04:03:06.888Z] [conta1] OK - video_53 publicado. media_id=18190923160409499
+[2026-10-22T04:03:26.904Z] [conta1] Postando video_54 (lote 6, post 4/10)
+[2026-10-22T04:03:59.518Z] [conta1] OK - video_54 publicado. media_id=18083158730705892
+[2026-10-22T04:04:19.534Z] [conta1] Postando video_55 (lote 6, post 5/10)
+[2026-10-22T04:05:02.056Z] [conta1] OK - video_55 publicado. media_id=18120107969319509
+[2026-10-22T04:05:22.073Z] [conta1] Postando video_56 (lote 6, post 6/10)
+[2026-10-22T04:06:58.687Z] [conta1] FALHOU video_56: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"A_I2lw4aqSmOuEHqanqxmlh"}
+[2026-10-22T04:06:59.015Z] [conta1] Aviso "[conta1] Falha ao postar" já está aberto.
