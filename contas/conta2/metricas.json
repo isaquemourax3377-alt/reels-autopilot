@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-21T23:42:10.227Z",
-  "seguidores": 113,
-  "total_posts": 254,
+  "atualizado": "2026-10-22T00:11:39.284Z",
+  "seguidores": 114,
+  "total_posts": 255,
   "erro": null,
   "midias": [
+    {
+      "id": "18148290295565829",
+      "data": "2026-10-22T00:06:42+0000",
+      "link": "https://www.instagram.com/reel/Dexp__NkXUJ/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18037064093838552",
       "data": "2026-10-21T23:35:59+0000",
       "link": "https://www.instagram.com/reel/DexmeSsCpx9/",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +24,7 @@
       "id": "17872768941640244",
       "data": "2026-10-21T23:05:50+0000",
       "link": "https://www.instagram.com/reel/DexjBOlgFe0/",
-      "views": 104,
+      "views": 152,
       "likes": 5,
       "comentarios": 0
     },
@@ -24,8 +32,8 @@
       "id": "18445749049135967",
       "data": "2026-10-21T22:35:49+0000",
       "link": "https://www.instagram.com/reel/DexflVjDbKG/",
-      "views": 169,
-      "likes": 16,
+      "views": 265,
+      "likes": 27,
       "comentarios": 0
     },
     {
@@ -40,8 +48,8 @@
       "id": "18078679241465096",
       "data": "2026-10-21T21:35:51+0000",
       "link": "https://www.instagram.com/reel/DexYuJQjCth/",
-      "views": 1319,
-      "likes": 181,
+      "views": 1379,
+      "likes": 190,
       "comentarios": 4
     },
     {
@@ -216,8 +224,8 @@
       "id": "18106423871194801",
       "data": "2026-10-21T20:06:31+0000",
       "link": "https://www.instagram.com/reel/DexOgfonQ3_/",
-      "views": 1901,
-      "likes": 197,
+      "views": 2450,
+      "likes": 246,
       "comentarios": 2
     },
     {
@@ -235,14 +243,6 @@
       "views": 178,
       "likes": 11,
       "comentarios": 0
-    },
-    {
-      "id": "18132391225703807",
-      "data": "2026-10-21T19:18:32+0000",
-      "link": "https://www.instagram.com/reel/DexI-SWIG0-/",
-      "views": 1239,
-      "likes": 115,
-      "comentarios": 0
     }
   ],
   "historico": {
@@ -250,6 +250,7 @@
     "2026-10-18": 49,
     "2026-10-19": 58,
     "2026-10-20": 74,
-    "2026-10-21": 113
+    "2026-10-21": 113,
+    "2026-10-22": 114
   }
 }
