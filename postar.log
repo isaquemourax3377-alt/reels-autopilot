@@ -2123,3 +2123,5 @@
 [2026-10-22T08:41:55.270Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-22T08:45:22.213Z] [conta5] Postando video_42 (lote 4, post 6/12)
 [2026-10-22T08:46:13.657Z] [conta5] OK - video_42 publicado. media_id=17968241091203243
+[2026-10-22T08:50:22.010Z] [conta3] Postando video_41 (lote 4, post 5/12)
+[2026-10-22T08:51:36.606Z] [conta3] OK - video_41 publicado. media_id=17999273159825641
