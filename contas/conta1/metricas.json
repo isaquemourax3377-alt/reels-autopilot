@@ -1,6 +1,6 @@
 {
-  "atualizado": "2026-10-22T09:11:22.737Z",
-  "seguidores": 6,
+  "atualizado": "2026-10-22T14:02:09.878Z",
+  "seguidores": 7,
   "total_posts": 219,
   "erro": null,
   "midias": [
@@ -64,8 +64,8 @@
       "id": "18113014241181905",
       "data": "2026-10-22T09:05:09+0000",
       "link": "https://www.instagram.com/reel/Deynm4HIMiu/",
-      "views": 0,
-      "likes": 0,
+      "views": 35,
+      "likes": 3,
       "comentarios": 0
     },
     {
@@ -96,8 +96,8 @@
       "id": "18119647418368262",
       "data": "2026-10-22T09:02:42+0000",
       "link": "https://www.instagram.com/reel/DeynVmglZ9j/",
-      "views": 0,
-      "likes": 0,
+      "views": 30,
+      "likes": 2,
       "comentarios": 0
     },
     {
@@ -120,15 +120,15 @@
       "id": "18449387947120072",
       "data": "2026-10-22T09:01:09+0000",
       "link": "https://www.instagram.com/reel/DeynJZUDcz-/",
-      "views": 0,
-      "likes": 0,
+      "views": 17,
+      "likes": 1,
       "comentarios": 0
     },
     {
       "id": "18120107969319509",
       "data": "2026-10-22T04:04:54+0000",
       "link": "https://www.instagram.com/reel/DeyFP1WDhDi/",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comentarios": 0
     },
@@ -176,7 +176,7 @@
       "id": "17965360041205652",
       "data": "2026-10-22T04:01:59+0000",
       "link": "https://www.instagram.com/reel/DeyE73wCkLi/",
-      "views": 28,
+      "views": 39,
       "likes": 1,
       "comentarios": 0
     },
@@ -184,7 +184,7 @@
       "id": "18147853690492848",
       "data": "2026-10-22T04:01:06+0000",
       "link": "https://www.instagram.com/reel/DeyEz2AjjOG/",
-      "views": 3,
+      "views": 6,
       "likes": 0,
       "comentarios": 0
     },
@@ -208,7 +208,7 @@
       "id": "17919456555459489",
       "data": "2026-10-22T00:03:44+0000",
       "link": "https://www.instagram.com/reel/DexpqGKn98G/",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comentarios": 0
     },
@@ -250,6 +250,6 @@
     "2026-10-19": 4,
     "2026-10-20": 5,
     "2026-10-21": 6,
-    "2026-10-22": 6
+    "2026-10-22": 7
   }
 }
