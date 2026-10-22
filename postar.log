@@ -2012,3 +2012,6 @@
 [2026-10-22T03:20:21.779Z] [conta3] Postando video_34 (lote 3, post 10/12)
 [2026-10-22T03:21:04.718Z] [conta3] OK - video_34 publicado. media_id=18146214139585872
 [2026-10-22T03:29:43.512Z] [conta3] Respondi 15 comentário(s).
+[2026-10-22T03:40:21.830Z] [conta2] Postando video_41 (lote 4, post 5/12)
+[2026-10-22T03:41:55.105Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
+[2026-10-22T03:41:55.409Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
