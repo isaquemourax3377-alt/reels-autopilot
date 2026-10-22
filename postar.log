@@ -2178,3 +2178,6 @@
 [2026-10-22T10:50:21.491Z] [conta3] Postando video_42 (lote 4, post 6/12)
 [2026-10-22T10:52:29.206Z] [conta3] FALHOU video_42: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"AUY9zUmyA5ukzGxOqF_euBj"}
 [2026-10-22T10:52:29.604Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-10-22T11:10:23.680Z] [conta2] Postando video_41 (lote 4, post 5/12)
+[2026-10-22T11:12:00.226Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
+[2026-10-22T11:12:00.717Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
