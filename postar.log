@@ -2045,3 +2045,7 @@
 [2026-10-22T04:21:03.854Z] [conta3] OK - video_36 publicado. media_id=18090130637258838
 [2026-10-22T04:21:03.855Z] [conta3] Legenda trocou para o lote 4. Atualize a bio.
 [2026-10-22T04:29:28.659Z] [conta3] Respondi 15 comentário(s).
+[2026-10-22T04:40:22.968Z] [conta2] Postando video_41 (lote 4, post 5/12)
+[2026-10-22T04:41:57.486Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
+[2026-10-22T04:41:57.854Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
+[2026-10-22T04:42:38.273Z] [conta2] Respondi 1 comentário(s).
