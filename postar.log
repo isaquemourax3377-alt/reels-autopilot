@@ -2677,3 +2677,21 @@
 [2026-10-23T13:50:23.275Z] [conta3] Postando video_76 (lote 7, post 4/12)
 [2026-10-23T13:51:19.725Z] [conta3] OK - video_76 publicado. media_id=17905697151349991
 [2026-10-23T13:52:25.332Z] [conta3] Respondi 2 comentário(s).
+[2026-10-23T14:00:34.254Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-23T14:00:34.256Z] [conta1] Postando video_93 (lote 10, post 3/10)
+[2026-10-23T14:01:09.026Z] [conta1] OK - video_93 publicado. media_id=17938324434390634
+[2026-10-23T14:01:29.043Z] [conta1] Postando video_94 (lote 10, post 4/10)
+[2026-10-23T14:02:12.513Z] [conta1] OK - video_94 publicado. media_id=18134545216707129
+[2026-10-23T14:02:32.529Z] [conta1] Postando video_95 (lote 10, post 5/10)
+[2026-10-23T14:03:16.615Z] [conta1] OK - video_95 publicado. media_id=18099089690658080
+[2026-10-23T14:03:36.626Z] [conta1] Postando video_96 (lote 10, post 6/10)
+[2026-10-23T14:04:20.728Z] [conta1] OK - video_96 publicado. media_id=18358192108222626
+[2026-10-23T14:04:40.730Z] [conta1] Postando video_97 (lote 10, post 7/10)
+[2026-10-23T14:05:37.590Z] [conta1] OK - video_97 publicado. media_id=18129972085892333
+[2026-10-23T14:05:57.606Z] [conta1] Postando video_98 (lote 10, post 8/10)
+[2026-10-23T14:06:42.725Z] [conta1] OK - video_98 publicado. media_id=18125881114922467
+[2026-10-23T14:07:02.741Z] [conta1] Postando video_99 (lote 10, post 9/10)
+[2026-10-23T14:07:47.074Z] [conta1] OK - video_99 publicado. media_id=18012296672988650
+[2026-10-23T14:08:07.092Z] [conta1] Postando video_100 (lote 10, post 10/10)
+[2026-10-23T14:10:41.037Z] [conta1] FALHOU video_100: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"Ahv3yNLlxqs5wg_6duRS3k-"}
+[2026-10-23T14:10:41.612Z] [conta1] Aviso "[conta1] Falha ao postar" já está aberto.
