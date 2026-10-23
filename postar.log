@@ -2640,3 +2640,6 @@
 [2026-10-23T11:40:24.201Z] [conta2] Postando video_41 (lote 4, post 5/12)
 [2026-10-23T11:41:46.834Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
 [2026-10-23T11:41:47.263Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
+[2026-10-23T11:45:21.516Z] [conta5] Postando video_96 (lote 8, post 12/12)
+[2026-10-23T11:46:03.630Z] [conta5] OK - video_96 publicado. media_id=18641137483026651
+[2026-10-23T11:46:03.630Z] [conta5] Legenda trocou para o lote 9. Atualize a bio.
