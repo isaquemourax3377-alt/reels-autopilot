@@ -2398,3 +2398,25 @@
 [2026-10-23T00:10:24.121Z] [conta2] Postando video_41 (lote 4, post 5/12)
 [2026-10-23T00:11:57.302Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
 [2026-10-23T00:11:57.710Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
+[2026-10-23T00:00:32.829Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-23T00:00:32.830Z] [conta1] Postando video_74 (lote 8, post 4/10)
+[2026-10-23T00:01:09.524Z] [conta1] OK - video_74 publicado. media_id=18136344058731519
+[2026-10-23T00:01:29.526Z] [conta1] Postando video_75 (lote 8, post 5/10)
+[2026-10-23T00:03:07.115Z] [conta1] OK - video_75 publicado. media_id=17906832999604427
+[2026-10-23T00:03:27.131Z] [conta1] Postando video_76 (lote 8, post 6/10)
+[2026-10-23T00:03:58.567Z] [conta1] OK - video_76 publicado. media_id=18117975601804331
+[2026-10-23T00:04:18.584Z] [conta1] Postando video_77 (lote 8, post 7/10)
+[2026-10-23T00:05:53.604Z] [conta1] OK - video_77 publicado. media_id=18102151556457985
+[2026-10-23T00:06:13.621Z] [conta1] Postando video_78 (lote 8, post 8/10)
+[2026-10-23T00:06:56.916Z] [conta1] OK - video_78 publicado. media_id=18469441420191943
+[2026-10-23T00:07:16.933Z] [conta1] Postando video_79 (lote 8, post 9/10)
+[2026-10-23T00:08:01.025Z] [conta1] OK - video_79 publicado. media_id=18119291926995956
+[2026-10-23T00:08:21.041Z] [conta1] Postando video_80 (lote 8, post 10/10)
+[2026-10-23T00:09:03.893Z] [conta1] OK - video_80 publicado. media_id=18003328142796416
+[2026-10-23T00:09:03.894Z] [conta1] Legenda trocou para o lote 9. Atualize a bio.
+[2026-10-23T00:09:23.910Z] [conta1] Postando video_81 (lote 9, post 1/10)
+[2026-10-23T00:10:58.176Z] [conta1] OK - video_81 publicado. media_id=18119093219089080
+[2026-10-23T00:11:18.191Z] [conta1] Postando video_82 (lote 9, post 2/10)
+[2026-10-23T00:12:10.696Z] [conta1] OK - video_82 publicado. media_id=18417702067085728
+[2026-10-23T00:12:30.702Z] [conta1] Postando video_83 (lote 9, post 3/10)
+[2026-10-23T00:13:13.839Z] [conta1] OK - video_83 publicado. media_id=18070370012786199
