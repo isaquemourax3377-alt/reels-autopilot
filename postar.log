@@ -2493,3 +2493,26 @@
 [2026-10-23T04:10:22.832Z] [conta2] Postando video_41 (lote 4, post 5/12)
 [2026-10-23T04:11:57.491Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
 [2026-10-23T04:11:57.966Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
+[2026-10-23T04:00:30.639Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-23T04:00:30.641Z] [conta1] Postando video_84 (lote 9, post 4/10)
+[2026-10-23T04:01:13.829Z] [conta1] OK - video_84 publicado. media_id=18633337981022431
+[2026-10-23T04:01:33.845Z] [conta1] Postando video_85 (lote 9, post 5/10)
+[2026-10-23T04:02:16.740Z] [conta1] OK - video_85 publicado. media_id=18182310439440314
+[2026-10-23T04:02:36.757Z] [conta1] Postando video_86 (lote 9, post 6/10)
+[2026-10-23T04:03:20.678Z] [conta1] OK - video_86 publicado. media_id=18374050012245176
+[2026-10-23T04:03:40.695Z] [conta1] Postando video_87 (lote 9, post 7/10)
+[2026-10-23T04:05:17.392Z] [conta1] OK - video_87 publicado. media_id=17908095885665058
+[2026-10-23T04:05:37.409Z] [conta1] Postando video_88 (lote 9, post 8/10)
+[2026-10-23T04:06:21.819Z] [conta1] OK - video_88 publicado. media_id=18027203543914428
+[2026-10-23T04:06:41.826Z] [conta1] Postando video_89 (lote 9, post 9/10)
+[2026-10-23T04:07:24.310Z] [conta1] OK - video_89 publicado. media_id=18069329204788312
+[2026-10-23T04:07:44.322Z] [conta1] Postando video_90 (lote 9, post 10/10)
+[2026-10-23T04:09:00.939Z] [conta1] OK - video_90 publicado. media_id=18119243359974419
+[2026-10-23T04:09:00.939Z] [conta1] Legenda trocou para o lote 10. Atualize a bio.
+[2026-10-23T04:09:20.946Z] [conta1] Postando video_91 (lote 10, post 1/10)
+[2026-10-23T04:09:52.396Z] [conta1] OK - video_91 publicado. media_id=18116149301149092
+[2026-10-23T04:10:12.412Z] [conta1] Postando video_92 (lote 10, post 2/10)
+[2026-10-23T04:10:57.600Z] [conta1] OK - video_92 publicado. media_id=18128265887487977
+[2026-10-23T04:11:17.616Z] [conta1] Postando video_93 (lote 10, post 3/10)
+[2026-10-23T04:12:55.442Z] [conta1] FALHOU video_93: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"A1ZU2KVQimrH_xnTaLXvdfF"}
+[2026-10-23T04:12:55.816Z] [conta1] Aviso "[conta1] Falha ao postar" já está aberto.
