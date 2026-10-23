@@ -2423,3 +2423,7 @@
 [2026-10-23T00:15:21.270Z] [conta5] Postando video_73 (lote 7, post 1/12)
 [2026-10-23T00:16:55.319Z] [conta5] OK - video_73 publicado. media_id=18125028154917225
 [2026-10-23T00:24:18.037Z] [conta5] Respondi 15 comentário(s).
+[2026-10-23T00:20:21.496Z] [conta3] Postando video_63 (lote 6, post 3/12)
+[2026-10-23T00:21:56.564Z] [conta3] FALHOU video_63: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"A4vsv8bge4hUlHg0WJi1u8z"}
+[2026-10-23T00:21:56.912Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-10-23T00:30:22.210Z] [conta3] Respondi 15 comentário(s).
