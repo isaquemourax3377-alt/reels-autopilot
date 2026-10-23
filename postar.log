@@ -2531,3 +2531,6 @@
 [2026-10-23T04:45:21.026Z] [conta5] Postando video_82 (lote 7, post 10/12)
 [2026-10-23T04:46:35.548Z] [conta5] OK - video_82 publicado. media_id=17982251553120767
 [2026-10-23T04:54:47.901Z] [conta5] Respondi 15 comentário(s).
+[2026-10-23T05:10:21.934Z] [conta2] Postando video_41 (lote 4, post 5/12)
+[2026-10-23T05:11:56.960Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
+[2026-10-23T05:11:57.329Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
