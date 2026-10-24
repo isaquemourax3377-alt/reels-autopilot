@@ -2964,3 +2964,6 @@
 [2026-10-24T03:45:22.696Z] [conta5] Postando video_128 (lote 11, post 8/12)
 [2026-10-24T03:45:55.443Z] [conta5] OK - video_128 publicado. media_id=18074471771774056
 [2026-10-24T03:55:00.672Z] [conta5] Respondi 15 comentário(s).
+[2026-10-24T04:10:23.288Z] [conta2] Postando video_41 (lote 4, post 5/12)
+[2026-10-24T04:12:08.457Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
+[2026-10-24T04:12:08.887Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
