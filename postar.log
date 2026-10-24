@@ -3113,3 +3113,5 @@
 [2026-10-24T11:10:22.498Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-24T11:15:22.082Z] [conta5] Postando video_143 (lote 12, post 11/12)
 [2026-10-24T11:15:57.939Z] [conta5] OK - video_143 publicado. media_id=18098816510538301
+[2026-10-24T11:20:22.908Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-24T11:20:23.418Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
