@@ -3251,3 +3251,5 @@
 [2026-10-24T19:10:22.377Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-24T19:15:21.480Z] [conta5] Postando video_159 (lote 14, post 3/12)
 [2026-10-24T19:16:05.492Z] [conta5] OK - video_159 publicado. media_id=17938999335393120
+[2026-10-24T19:20:21.454Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-24T19:20:21.963Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
