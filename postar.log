@@ -2967,3 +2967,25 @@
 [2026-10-24T04:10:23.288Z] [conta2] Postando video_41 (lote 4, post 5/12)
 [2026-10-24T04:12:08.457Z] [conta2] FALHOU video_41: Processamento falhou no lado da Meta
 [2026-10-24T04:12:08.887Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
+[2026-10-24T04:00:28.941Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-24T04:00:28.943Z] [conta1] Postando video_120 (lote 12, post 10/10)
+[2026-10-24T04:01:12.570Z] [conta1] OK - video_120 publicado. media_id=17875138767636260
+[2026-10-24T04:01:12.571Z] [conta1] Legenda trocou para o lote 13. Atualize a bio.
+[2026-10-24T04:01:32.587Z] [conta1] Postando video_121 (lote 13, post 1/10)
+[2026-10-24T04:03:07.701Z] [conta1] OK - video_121 publicado. media_id=18179989228446522
+[2026-10-24T04:03:27.718Z] [conta1] Postando video_122 (lote 13, post 2/10)
+[2026-10-24T04:04:09.691Z] [conta1] OK - video_122 publicado. media_id=18117722419791053
+[2026-10-24T04:04:29.707Z] [conta1] Postando video_123 (lote 13, post 3/10)
+[2026-10-24T04:05:54.369Z] [conta1] OK - video_123 publicado. media_id=18119987207069775
+[2026-10-24T04:06:14.384Z] [conta1] Postando video_124 (lote 13, post 4/10)
+[2026-10-24T04:06:48.135Z] [conta1] OK - video_124 publicado. media_id=17961283557239282
+[2026-10-24T04:07:08.152Z] [conta1] Postando video_125 (lote 13, post 5/10)
+[2026-10-24T04:08:11.495Z] [conta1] OK - video_125 publicado. media_id=18196427362387954
+[2026-10-24T04:08:31.511Z] [conta1] Postando video_126 (lote 13, post 6/10)
+[2026-10-24T04:09:53.582Z] [conta1] OK - video_126 publicado. media_id=18118889471082153
+[2026-10-24T04:10:13.598Z] [conta1] Postando video_127 (lote 13, post 7/10)
+[2026-10-24T04:11:02.075Z] [conta1] OK - video_127 publicado. media_id=18001076891993753
+[2026-10-24T04:11:22.084Z] [conta1] Postando video_128 (lote 13, post 8/10)
+[2026-10-24T04:12:03.552Z] [conta1] OK - video_128 publicado. media_id=18199730884377361
+[2026-10-24T04:12:23.568Z] [conta1] Postando video_129 (lote 13, post 9/10)
+[2026-10-24T04:12:56.826Z] [conta1] OK - video_129 publicado. media_id=18386238853237017
