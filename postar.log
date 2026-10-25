@@ -3479,3 +3479,5 @@
 [2026-10-25T07:40:24.419Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-25T07:45:20.797Z] [conta5] Postando video_184 (lote 16, post 4/12)
 [2026-10-25T07:46:37.122Z] [conta5] OK - video_184 publicado. media_id=17962170999017066
+[2026-10-25T07:50:23.178Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-25T07:50:23.657Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
