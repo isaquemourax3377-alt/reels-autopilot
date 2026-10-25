@@ -3406,3 +3406,7 @@
 [2026-10-25T03:45:19.601Z] [conta5] Postando video_176 (lote 15, post 8/12)
 [2026-10-25T03:46:03.477Z] [conta5] OK - video_176 publicado. media_id=18098363327213853
 [2026-10-25T03:54:21.488Z] [conta5] Respondi 15 comentário(s).
+[2026-10-25T04:00:33.300Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-25T04:00:33.303Z] [conta1] Nenhum vídeo restante para postar.
+[2026-10-25T04:00:33.664Z] [conta1] Métricas não atualizaram: Unsupported get request. Object with ID '17841423412626607' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-25T04:00:33.758Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
