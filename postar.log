@@ -3750,3 +3750,5 @@
 [2026-10-25T23:45:20.254Z] [conta5] Postando video_216 (lote 18, post 12/12)
 [2026-10-25T23:45:50.924Z] [conta5] OK - video_216 publicado. media_id=18081695399719020
 [2026-10-25T23:45:50.924Z] [conta5] Legenda trocou para o lote 19. Atualize a bio.
+[2026-10-25T23:50:21.995Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-25T23:50:22.527Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
