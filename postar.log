@@ -3667,3 +3667,7 @@
 [2026-10-25T18:46:07.583Z] [conta5] OK - video_206 publicado. media_id=18132869671802078
 [2026-10-25T18:50:22.082Z] [conta3] Nenhum vídeo restante para postar.
 [2026-10-25T18:50:22.549Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
+[2026-10-25T19:00:32.663Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-25T19:00:32.665Z] [conta1] Nenhum vídeo restante para postar.
+[2026-10-25T19:00:32.949Z] [conta1] Métricas não atualizaram: Unsupported get request. Object with ID '17841423412626607' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-25T19:00:33.253Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
