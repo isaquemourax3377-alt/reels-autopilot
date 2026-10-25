@@ -3592,3 +3592,5 @@
 [2026-10-25T14:10:26.897Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-25T14:15:21.329Z] [conta5] Postando video_197 (lote 17, post 5/12)
 [2026-10-25T14:16:05.573Z] [conta5] OK - video_197 publicado. media_id=18131308726702330
+[2026-10-25T14:20:22.730Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-25T14:20:23.275Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
