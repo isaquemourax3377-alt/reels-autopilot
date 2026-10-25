@@ -3649,3 +3649,5 @@
 [2026-10-25T17:45:21.485Z] [conta5] Postando video_204 (lote 17, post 12/12)
 [2026-10-25T17:46:01.709Z] [conta5] OK - video_204 publicado. media_id=18132611389859940
 [2026-10-25T17:46:01.709Z] [conta5] Legenda trocou para o lote 18. Atualize a bio.
+[2026-10-25T17:50:22.815Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-25T17:50:23.293Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
