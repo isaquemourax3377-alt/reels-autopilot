@@ -4095,3 +4095,5 @@
 [2026-10-26T18:10:26.589Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-26T18:15:24.431Z] [conta5] Postando video_253 (lote 22, post 1/12)
 [2026-10-26T18:16:04.614Z] [conta5] OK - video_253 publicado. media_id=18114434725896858
+[2026-10-26T18:20:22.149Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-26T18:20:22.734Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
