@@ -4043,3 +4043,6 @@
 [2026-10-26T15:10:24.088Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-26T15:15:24.359Z] [conta5] Postando video_247 (lote 21, post 7/12)
 [2026-10-26T15:16:03.970Z] [conta5] OK - video_247 publicado. media_id=17913914928520009
+[2026-10-26T15:20:22.881Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-26T15:20:23.410Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
+[2026-10-26T15:27:31.853Z] [conta3] Respondi 15 comentário(s).
