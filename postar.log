@@ -4190,3 +4190,7 @@
 [2026-10-26T23:46:14.666Z] [conta5] Legenda trocou para o lote 23. Atualize a bio.
 [2026-10-26T23:50:20.588Z] [conta3] Nenhum vídeo restante para postar.
 [2026-10-26T23:50:21.105Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
+[2026-10-27T00:00:31.068Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-27T00:00:31.070Z] [conta1] Nenhum vídeo restante para postar.
+[2026-10-27T00:00:31.453Z] [conta1] Métricas não atualizaram: Unsupported get request. Object with ID '17841423412626607' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-27T00:00:31.693Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
