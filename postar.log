@@ -4500,3 +4500,5 @@
 [2026-10-27T16:10:24.645Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
 [2026-10-27T16:15:24.935Z] [conta5] Postando video_297 (lote 25, post 9/12)
 [2026-10-27T16:17:01.266Z] [conta5] OK - video_297 publicado. media_id=17987944160888565
+[2026-10-27T16:20:23.848Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-27T16:20:24.459Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
