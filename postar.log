@@ -4399,3 +4399,5 @@
 [2026-10-27T10:15:24.878Z] [conta5] Postando video_285 (lote 24, post 9/12)
 [2026-10-27T10:16:05.766Z] [conta5] OK - video_285 publicado. media_id=18342882025258291
 [2026-10-27T10:16:05.766Z] [conta5] Faltam 12 vídeos. Avisando.
+[2026-10-27T10:20:24.287Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-27T10:20:24.748Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
