@@ -5,7 +5,7 @@
     "posts_varridos": 1271,
     "fim": "2026-10-31T15:50:23.117Z"
   },
-  "erro": "You cannot access the app till you log in to www.facebook.com and follow the instructions given.",
+  "erro": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
   "total": 1327,
-  "atualizado": "2026-10-31T22:50:20.944Z"
+  "atualizado": "2026-10-31T23:20:22.035Z"
 }
