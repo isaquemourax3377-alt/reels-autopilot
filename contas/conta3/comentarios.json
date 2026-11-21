@@ -5,7 +5,7 @@
     "posts_varridos": 1271,
     "fim": "2026-10-31T15:50:23.117Z"
   },
-  "erro": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+  "erro": "fetch failed",
   "total": 1327,
-  "atualizado": "2026-11-21T13:50:22.684Z"
+  "atualizado": "2026-11-21T14:20:24.121Z"
 }
